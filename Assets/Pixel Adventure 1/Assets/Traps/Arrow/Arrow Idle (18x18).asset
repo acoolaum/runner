@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a955582d40f48044b6c962bc3f1e079, type: 3}
+  m_Name: Arrow Idle (18x18)
+  m_EditorClassIdentifier: 
+  _sprites:
+  - {fileID: -3246028407001408874, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: 1879266752249246583, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: -598956113216523009, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: -9211657020794476399, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: 756180008433707025, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: 7742524084409060902, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: -5692657092941465571, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: -5997451296551234478, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: -1451601718105120401, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
+  - {fileID: 1644897918997917620, guid: f42176bbc0b84b54e83c161abc6eb071, type: 3}
